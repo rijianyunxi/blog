@@ -126,10 +126,6 @@ export default defineConfig({
               link: "/posts/工程化/模块系统与路径别名",
             },
             {
-              text: "OpenAI SDK 类型系统详解",
-              link: "/posts/工程化/OpenAI-SDK类型系统详解",
-            },
-            {
               text: "pnpm workspace 与 Monorepo 实战",
               link: "/posts/工程化/pnpm-workspace与Monorepo实战",
             },
@@ -138,12 +134,16 @@ export default defineConfig({
               link: "/posts/工程化/eslint-prettier-tsconfig与husky边界",
             },
             {
-              text:"webpack配置解析",
-              link:"/posts/工程化/webpack配置解析.md",
+              text: "webpack 配置解析",
+              link: "/posts/工程化/webpack配置解析",
             },
             {
-              text:"webpack自定义Loader实现.md",
-              link:"/posts/工程化/webpack自定义Loader实现.md",
+              text: "webpack 自定义 Loader 实现",
+              link: "/posts/工程化/webpack自定义Loader实现",
+            },
+            {
+              text: "OpenAI SDK 类型系统详解",
+              link: "/posts/工程化/OpenAI-SDK类型系统详解",
             }
           ],
         },
@@ -215,11 +215,14 @@ export default defineConfig({
             { text: "前端监控 SDK", link: "/posts/monitor-sdk/" },
           ],
         },
-         {
-          text: "ai",
+        {
+          text: "AI",
           collapsed: true,
           items: [
-            { text: "OpenAIChat参数", link: "/posts/ai/OpenAIChat参数.md" },
+            {
+              text: "OpenAI SDK 类型系统详解",
+              link: "/posts/ai/OpenAI-SDK类型系统详解",
+            },
           ],
         },
         {
