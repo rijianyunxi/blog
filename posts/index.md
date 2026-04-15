@@ -17,11 +17,11 @@ date: 2026-04-11
 
 ---
 
-## 🔷 TypeScript 工程配置
+## 🔷 前端工程化与 TypeScript / Monorepo
 
-聚焦 Node.js / AI 项目场景，从 tsconfig 到工具链到类型系统的完整配置链路。
+从 `tsconfig`、模块系统、环境变量、工具链一路延展到 `Monorepo`、任务编排、测试与 CI，把前端工程化放回完整链路里梳理。
 
-→ [开始阅读](/posts/typescript-config/01-tsconfig全配置详解)
+→ [开始阅读](/posts/typescript-config/00-前端工程化与Monorepo全链路梳理)
 
 ---
 
