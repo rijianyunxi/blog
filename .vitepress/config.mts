@@ -16,92 +16,88 @@ export default defineConfig({
     sidebar: {
       "/posts/": [
         {
-          text: "总览",
-          items: [{ text: "文章总览", link: "/posts/" }],
-        },
-        {
           text: "前端基础",
           collapsed: true,
           items: [
             {
               text: "Axios并发无感刷新 Token 方案",
-              link: "/posts/javascript/axios并发无感刷新token",
+              link: "/posts/前端基础/axios并发无感刷新token",
             },
             {
               text: "Promise 完整实现",
-              link: "/posts/js-手写实现/Promise完整实现",
+              link: "/posts/前端基础/Promise完整实现",
             },
             {
               text: "深拷贝完整实现",
-              link: "/posts/js-手写实现/深拷贝完整实现",
+              link: "/posts/前端基础/深拷贝完整实现",
             },
             {
               text: "继承的六种方式",
-              link: "/posts/js-手写实现/继承的六种方式",
+              link: "/posts/前端基础/继承的六种方式",
             },
             {
               text: "call / apply / bind 实现",
-              link: "/posts/js-手写实现/call-apply-bind实现",
+              link: "/posts/前端基础/call-apply-bind实现",
             },
             {
               text: "闭包与作用域链",
-              link: "/posts/js-手写实现/闭包与作用域链",
+              link: "/posts/前端基础/闭包与作用域链",
             },
             {
               text: "事件总线 EventBus",
-              link: "/posts/js-手写实现/事件总线EventBus",
+              link: "/posts/前端基础/事件总线EventBus",
             },
             {
               text: "防抖与节流",
-              link: "/posts/js-手写实现/防抖与节流",
+              link: "/posts/前端基础/防抖与节流",
             },
             {
               text: "instanceof 实现",
-              link: "/posts/js-手写实现/instanceof实现",
+              link: "/posts/前端基础/instanceof实现",
             },
             {
               text: "reduce 手写实现",
-              link: "/posts/js-手写实现/reduce手写实现",
+              link: "/posts/前端基础/reduce手写实现",
             },
             {
               text: "数组扁平化去重排序",
-              link: "/posts/js-手写实现/数组扁平化去重排序",
+              link: "/posts/前端基础/数组扁平化去重排序",
             },
             {
               text: "列表与树互转",
-              link: "/posts/js-手写实现/列表与树互转",
+              link: "/posts/前端基础/列表与树互转",
             },
             {
               text: "MutationObserver 变化监听",
-              link: "/posts/浏览器API/MutationObserver-变化监听",
+              link: "/posts/前端基础/MutationObserver-变化监听",
             },
             {
               text: "IntersectionObserver 交叉观察",
-              link: "/posts/浏览器API/IntersectionObserver-交叉观察",
+              link: "/posts/前端基础/IntersectionObserver-交叉观察",
             },
             {
               text: "Web Worker 多线程",
-              link: "/posts/浏览器API/Web-Worker-多线程",
+              link: "/posts/前端基础/Web-Worker-多线程",
             },
             {
               text: "Server-Sent Events",
-              link: "/posts/浏览器API/Server-Sent-Events",
+              link: "/posts/前端基础/Server-Sent-Events",
             },
             {
               text: "requestAnimationFrame 动画帧",
-              link: "/posts/浏览器API/requestAnimationFrame-动画帧",
+              link: "/posts/前端基础/requestAnimationFrame-动画帧",
             },
             {
               text: "CSS transform 对定位的影响",
-              link: "/posts/浏览器API/CSS-transform对定位的影响",
+              link: "/posts/前端基础/CSS-transform对定位的影响",
             },
             {
               text: "虚拟滚动实现",
-              link: "/posts/浏览器API/虚拟滚动实现",
+              link: "/posts/前端基础/虚拟滚动实现",
             },
             {
               text: "DOM 树遍历 BFS",
-              link: "/posts/浏览器API/DOM树遍历-BFS",
+              link: "/posts/前端基础/DOM树遍历-BFS",
             },
           ],
         },
@@ -141,10 +137,18 @@ export default defineConfig({
               text: "ESLint / Prettier / tsconfig / Husky",
               link: "/posts/工程化/eslint-prettier-tsconfig与husky边界",
             },
+            {
+              text:"webpack配置解析",
+              link:"/posts/工程化/webpack配置解析.md",
+            },
+            {
+              text:"webpack自定义Loader实现.md",
+              link:"/posts/工程化/webpack自定义Loader实现.md",
+            }
           ],
         },
         {
-          text: "Vue3 迷你实现",
+          text: "Vue3迷你实现-ing",
           collapsed: true,
           items: [
             {
@@ -182,7 +186,7 @@ export default defineConfig({
           ],
         },
         {
-          text: "React 迷你实现",
+          text: "React迷你实现-ing",
           collapsed: true,
           items: [
             {
@@ -205,11 +209,17 @@ export default defineConfig({
         },
 
         {
-          text: "工程与实践",
+          text: "实践",
           collapsed: true,
           items: [
             { text: "前端监控 SDK", link: "/posts/monitor-sdk/" },
-                        { text: "Webpack", link: "/posts/webpack/" },
+          ],
+        },
+         {
+          text: "ai",
+          collapsed: true,
+          items: [
+            { text: "OpenAIChat参数", link: "/posts/ai/OpenAIChat参数.md" },
           ],
         },
         {
