@@ -15,18 +15,18 @@ title: LeetCode Hot100
 
 ## 推荐阅读顺序
 
-1. [数组与哈希](/posts/leetcode-hot100/01-数组与哈希)
-2. [双指针](/posts/leetcode-hot100/02-双指针)
-3. [滑动窗口](/posts/leetcode-hot100/03-滑动窗口)
-4. [栈与单调栈](/posts/leetcode-hot100/04-栈与单调栈)
-5. [链表](/posts/leetcode-hot100/05-链表)
-6. [二叉树基础](/posts/leetcode-hot100/06-二叉树基础)
-7. [二叉树进阶与图论](/posts/leetcode-hot100/07-二叉树进阶与图论)
-8. [回溯](/posts/leetcode-hot100/08-回溯)
-9. [二分查找](/posts/leetcode-hot100/09-二分查找)
-10. [动态规划基础](/posts/leetcode-hot100/10-动态规划基础)
-11. [动态规划进阶](/posts/leetcode-hot100/11-动态规划进阶)
-12. [贪心与设计题](/posts/leetcode-hot100/12-贪心与设计题)
+1. [数组与哈希](/posts/leetcode-hot100/数组与哈希)
+2. [双指针](/posts/leetcode-hot100/双指针)
+3. [滑动窗口](/posts/leetcode-hot100/滑动窗口)
+4. [栈与单调栈](/posts/leetcode-hot100/栈与单调栈)
+5. [链表](/posts/leetcode-hot100/链表)
+6. [二叉树基础](/posts/leetcode-hot100/二叉树基础)
+7. [二叉树进阶与图论](/posts/leetcode-hot100/二叉树进阶与图论)
+8. [回溯](/posts/leetcode-hot100/回溯)
+9. [二分查找](/posts/leetcode-hot100/二分查找)
+10. [动态规划基础](/posts/leetcode-hot100/动态规划基础)
+11. [动态规划进阶](/posts/leetcode-hot100/动态规划进阶)
+12. [贪心与设计题](/posts/leetcode-hot100/贪心与设计题)
 
 ## 这个系列怎么组织
 

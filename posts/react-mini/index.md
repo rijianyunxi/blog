@@ -8,10 +8,10 @@ title: React 迷你实现
 
 ## 文章目录
 
-- [01 - 项目架构总览](/posts/react-mini/01-react-mini-项目架构总览)
-- [02 - JSX 与 ReactElement](/posts/react-mini/02-React-JSX与ReactElement)
-- [03 - Fiber 架构详解](/posts/react-mini/03-React-Fiber架构详解)
-- [04 - Reconciler 协调器](/posts/react-mini/04-React-Reconciler协调器)
+- [项目架构总览](/posts/react-mini/react-mini-项目架构总览)
+- [JSX 与 ReactElement](/posts/react-mini/React-JSX与ReactElement)
+- [Fiber 架构详解](/posts/react-mini/React-Fiber架构详解)
+- [Reconciler 协调器](/posts/react-mini/React-Reconciler协调器)
 
 ## 建议阅读顺序
 

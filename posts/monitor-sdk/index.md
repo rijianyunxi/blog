@@ -8,7 +8,7 @@ title: 前端监控 SDK
 
 ## 文章目录
 
-- [01 - 前端监控 SDK 架构设计](/posts/monitor-sdk/01-前端监控SDK架构设计)
-- [02 - 性能指标监控：Web Vitals](/posts/monitor-sdk/02-性能指标监控-web-vitals)
-- [03 - 错误监控：JS 错误与资源错误](/posts/monitor-sdk/03-错误监控-JS错误与资源错误)
-- [04 - HTTP 请求监控：Fetch 与 XHR 拦截](/posts/monitor-sdk/04-HTTP请求监控-Fetch与XHR拦截)
+- [前端监控 SDK 架构设计](/posts/monitor-sdk/前端监控SDK架构设计)
+- [性能指标监控：Web Vitals](/posts/monitor-sdk/性能指标监控-web-vitals)
+- [错误监控：JS 错误与资源错误](/posts/monitor-sdk/错误监控-JS错误与资源错误)
+- [HTTP 请求监控：Fetch 与 XHR 拦截](/posts/monitor-sdk/HTTP请求监控-Fetch与XHR拦截)

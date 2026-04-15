@@ -8,5 +8,5 @@ title: Webpack
 
 ## 文章目录
 
-- [01 - Webpack 自定义 Loader 实现](/posts/webpack/01-webpack自定义Loader实现)
-- [02 - webpack 配置解析](/posts/webpack/02-webpack配置解析)
+- [Webpack 自定义 Loader 实现](/posts/webpack/webpack自定义Loader实现)
+- [webpack 配置解析](/posts/webpack/webpack配置解析)
